@@ -1,4 +1,4 @@
-## Hey 👋, I'm Ahmad Kiswani!
+## Hi 👋, I'm Ahmad Kiswani!
 
 🎓 Cyber Security Student | 💻 C++ Learner | 🔐 Tech Enthusiast  
 
